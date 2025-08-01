@@ -4,8 +4,14 @@ believe in continuous learning and self development.
 Above that I have a strong interest in IT Security, as can be seen in one of my side projects which was obtaining the PNPT certification (see below).
 
 ## Experience
+### yasp.ai
+<div align="right"><b>11/2024 - present</b></div>
+
+**Senior GPU ML Software Engineer**
+- Write and optimize custom GPU kernels for Machine Learning and Autonomous Driving
+
 ### Lilium eAircraft GmbH
-<div align="right"><b>03/2023 - present</b></div>
+<div align="right"><b>03/2023 - 07/2024</b></div>
 
 **Senior Software Engineer – Internal Tools**
 - Development of internal Flight and Applied Sciences tools with Python dash, including API, GUI and server back-end.
