@@ -8,7 +8,9 @@ Above that I have a strong interest in IT Security, as can be seen in one of my 
 <div align="right"><b>11/2024 - present</b></div>
 
 **Senior GPU ML Software Engineer**
-- Write and optimize custom GPU kernels for Machine Learning and Autonomous Driving
+- Write and optimize custom GPU kernels for Machine Learning
+- Profiling kernels with Nvidia dev tools
+- Low level (PTX and SASS) analysis of kernels
 
 ### Lilium eAircraft GmbH
 <div align="right"><b>03/2023 - 07/2024</b></div>
